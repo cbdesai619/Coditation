@@ -6,6 +6,9 @@ Steps to Import and Run the project:
 -- "Run as >> Java Application" the App.java in the package com.demo under the src path.
  
 
+GIT Link: https://github.com/cbdesai619/Coditation.git
+Web Link (to manually download if required): https://github.com/cbdesai619/Coditation/tree/master
+
 Tools used:
 eclipse IDE
 GIT
